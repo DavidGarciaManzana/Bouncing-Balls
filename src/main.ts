@@ -19,3 +19,5 @@ let bouncingBall = (h: number, bounce: number, window: number): number => {
 // console.log(bouncingBall(30, -.5, 10)); //, -1
 // console.log(bouncingBall(30, 1.5, 10)); //, -1
 // console.log(bouncingBall(30, .5, 31)); //, -1
+
+// Time : 25minutes
